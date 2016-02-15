@@ -1,0 +1,8 @@
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\bin\Debug\frmBlocNotas.exe
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\bin\Debug\frmBlocNotas.pdb
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.frmBloc.resources
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.Properties.Resources.resources
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.csproj.GenerateResource.Cache
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.exe
+c:\users\marcu\documents\visual studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.pdb
+C:\Users\marcu\Documents\Visual Studio 2010\Projects\frmBlocNotas\frmBlocNotas\obj\x86\Debug\frmBlocNotas.csprojResolveAssemblyReference.cache
